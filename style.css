@@ -9,3 +9,8 @@ h1 {
 p {
     color: blue;
 }
+
+form {
+    margin: 30 px;
+    padding: 30px;
+}
